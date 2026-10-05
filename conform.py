@@ -1,4 +1,4 @@
-# Junior Dev: Zeynep Sude Boğa
+# Senior Dev: Zeynep Sude 
 
 def pleaseConformOnepass(caps):
     if not caps:
@@ -38,3 +38,5 @@ def pleaseConformOnepass(caps):
 
 cap3 = ['F', 'F', 'B', 'H', 'B', 'F', 'B', 'B', 'B', 'F', 'H', 'F', 'F']
 pleaseConformOnepass(cap3)
+
+# dummy comment for feat/optimum-conform  
