@@ -1,4 +1,4 @@
-# This script is written by Zeynep Sude Boğa 
+# Junior Dev: Zeynep Sude Boğa
 
 def pleaseConformOnepass(caps):
     if not caps:
